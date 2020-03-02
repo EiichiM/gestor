@@ -1,4 +1,4 @@
-# Devias Material Kit Pro
+<!-- # Devias Material Kit Pro
 
 ## Client & Admin Dashboard Kit
 
@@ -68,4 +68,4 @@ A professional kit that comes with plenty of ready-to-use Material-UI© componen
 - Install dependencies: `npm install` or `yarn`
 - Start the server: `npm run start` or `yarn start`
 - Views are on: `localhost:3000`
-- Latest node & react versions recommended
+- Latest node & react versions recommended -->
